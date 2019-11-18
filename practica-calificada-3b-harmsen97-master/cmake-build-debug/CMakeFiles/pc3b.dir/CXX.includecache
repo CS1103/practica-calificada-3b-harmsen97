@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Downloads/practica-calificada-3b-harmsen97-master/Rectangulo.h
+algorithm
+-
+
+/Users/jeronimo/Downloads/practica-calificada-3b-harmsen97-master/funciones.h
+vector
+-
+fstream
+-
+Rectangulo.h
+/Users/jeronimo/Downloads/practica-calificada-3b-harmsen97-master/Rectangulo.h
+
+/Users/jeronimo/Downloads/practica-calificada-3b-harmsen97-master/main.cpp
+iostream
+-
+funciones.h
+/Users/jeronimo/Downloads/practica-calificada-3b-harmsen97-master/funciones.h
+
